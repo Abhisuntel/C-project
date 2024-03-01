@@ -1,0 +1,10 @@
+
+1	Signalsprocessing	VK.Mehta	2	456	5	2
+
+2	Controlfulsystem	RJ.mehta	1	500	2	2
+
+3	Machineandmotores	r.d.bhimra	4	700	4	2
+			
+4	ControlEnginering	B.Pmehta	3	1000	3	2
+
+5	Opticalfibersystem	D.Jshukla	5	1000	5	2

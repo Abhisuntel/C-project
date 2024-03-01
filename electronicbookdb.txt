@@ -1,0 +1,8 @@
+
+1	WirelessCommunication 	D.RVyaas	1	456	2	5
+
+2	PrincipleofManagement	rushishin	3	500	3	5
+
+3	ProfessionalCommunic.	Dr.Chikle	5	100	6	5	
+
+4	ProfessionalElectronic	prof.durg	10	1000	10	5	

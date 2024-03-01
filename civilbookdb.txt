@@ -1,0 +1,12 @@
+
+1	AppliedMathmatics	Dr.kulguru	5	400	5	3
+
+2	ConcreteTechnology	Dr.vyaasaas	10	456	10	3
+
+3	ThermalEngineering	Bhalchanfra	15	10000	15	3
+
+4	EnvironmentalEngine	Jhunjunwala	20	10000	20	3
+
+5	Environmentpolution	JacksonRoy	30	20000	30	3
+
+
